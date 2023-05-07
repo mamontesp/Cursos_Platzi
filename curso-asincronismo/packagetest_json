@@ -2,6 +2,7 @@
   "name": "curso-asincronismo",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://mamontesp.github.io/Cursos_Platzi",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d src"

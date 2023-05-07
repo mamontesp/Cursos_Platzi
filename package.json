@@ -1,5 +1,22 @@
 {
   "devDependencies": {
     "gh-pages": "^5.0.0"
+  },
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://mamontesp.github.io/Cursos_Platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -b main -d curso-asincronismo/src"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Nathalia Olivera <oliveranathaliaa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
   }
 }
+
