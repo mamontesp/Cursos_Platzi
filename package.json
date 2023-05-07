@@ -6,9 +6,9 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://mamontesp.github.io/Cursos_Platzi",
-  "main": "index.js",
+  "main": "curso-asincronismo/src/Proyecto/index.html",
   "scripts": {
-    "deploy": "gh-pages -b main -d curso-asincronismo/src"
+    "deploy": "gh-pages -b main -d curso-asincronismo/src/Proyecto"
   },
   "keywords": [
     "javascript"
